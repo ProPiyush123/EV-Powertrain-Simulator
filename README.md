@@ -36,7 +36,7 @@ EV_Powertrain_Simulator/
 │   ├── battery_soc_phase2.m     # Phase 2: Driving profile + regen braking
 │   ├── battery_soc_phase3.m     # Phase 3: Motor model + throttle + vehicle dynamics
 │   └── battery_soc_phase4.m     # Phase 4: Sensor noise, FFT, filtering
-├── simulink/
+├── Simulink/
 │   ├── ev_phase1.slx            # Battery SOC block model
 │   ├── ev_phase2.slx            # Driving profile with Signal Editor
 │   ├── ev_phase3.slx            # Motor model in blocks (annotated)
