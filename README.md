@@ -87,4 +87,4 @@ MATLAB, Simulink (Signal Editor, Integrator, Saturation, Product, Sum, Gain bloc
 
 ## Author
 
-Piyush — built as a self-directed project alongside coursework in Power Semiconductor Drives and Digital Signal Processing, with an interest in the EV industry.
+Piyush — built as a self-directed project alongside coursework in Digital Signal Processing, with an interest in the EV industry.
